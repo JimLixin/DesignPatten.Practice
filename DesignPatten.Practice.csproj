@@ -47,6 +47,7 @@
     <Compile Include="Creational\FactoryMethod\Example2.cs" />
     <Compile Include="Creational\FactoryMethod\Example1.cs" />
     <Compile Include="Creational\FactoryMethod\Example3.cs" />
+    <Compile Include="Creational\Singleton\Example1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
