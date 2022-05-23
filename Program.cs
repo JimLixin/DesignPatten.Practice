@@ -20,6 +20,8 @@ namespace DesignPatten.Practice
             (new DesignPatten.Practice.Creational.AbstractFactory.Example1Client()).Test();
             Console.WriteLine("<======================================================>");
             (new DesignPatten.Practice.Creational.Singleton.Example1Client()).Test();
+            Console.WriteLine("<======================================================>");
+            (new DesignPatten.Practice.Creational.ProtoType.Example1Client()).Test();
             Console.ReadLine();
         }
     }
