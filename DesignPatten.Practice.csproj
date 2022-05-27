@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\Command\Example1.cs" />
     <Compile Include="Creational\AbstractFactory\Example1.cs" />
     <Compile Include="Creational\FactoryMethod\Example2.cs" />
     <Compile Include="Creational\FactoryMethod\Example1.cs" />
@@ -62,5 +63,6 @@
     <Content Include="Creational\AbstractFactory\readme.txt" />
     <Content Include="readme.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
