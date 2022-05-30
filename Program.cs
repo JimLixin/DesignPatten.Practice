@@ -24,6 +24,8 @@ namespace DesignPatten.Practice
             (new DesignPatten.Practice.Creational.ProtoType.Example1Client()).Test();
             Console.WriteLine("<======================================================>");
             DesignPatten.Practice.Behavioral.Command.Example1Client.Test();
+            Console.WriteLine("<======================================================>");
+            DesignPatten.Practice.Behavioral.Mediator.Example1Client.Test();
             Console.ReadLine();
         }
     }

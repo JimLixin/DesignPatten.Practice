@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Behavioral\Command\Example1.cs" />
+    <Compile Include="Behavioral\Iterator\Example1.cs" />
+    <Compile Include="Behavioral\Mediator\Example1.cs" />
     <Compile Include="Creational\AbstractFactory\Example1.cs" />
     <Compile Include="Creational\FactoryMethod\Example2.cs" />
     <Compile Include="Creational\FactoryMethod\Example1.cs" />
@@ -60,6 +62,7 @@
     <None Include="Creational\FactoryMethod\readme.md" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Behavioral\Mediator\readme.txt" />
     <Content Include="Creational\AbstractFactory\readme.txt" />
     <Content Include="readme.txt" />
   </ItemGroup>
