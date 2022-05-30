@@ -30,6 +30,8 @@ namespace DesignPatten.Practice
             DesignPatten.Practice.Behavioral.Observer.Example2.Example1Client.Test();
             Console.WriteLine("<======================================================>");
             DesignPatten.Practice.Behavioral.Strategy.Example1Client.Test();
+            Console.WriteLine("<======================================================>");
+            DesignPatten.Practice.Behavioral.TemplateMethod.Example1Client.Test();
             Console.ReadLine();
         }
     }
