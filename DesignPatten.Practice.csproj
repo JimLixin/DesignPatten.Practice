@@ -61,6 +61,7 @@
     <Compile Include="Structural\Adapter\Example1.cs" />
     <Compile Include="Structural\Bridge\Example1.cs" />
     <Compile Include="Structural\Decorator\Example1.cs" />
+    <Compile Include="Structural\Facade\Example1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
