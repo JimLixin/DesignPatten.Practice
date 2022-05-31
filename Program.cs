@@ -36,6 +36,8 @@ namespace DesignPatten.Practice
             DesignPatten.Practice.Structural.Adapter.Example1Client.Test();
             Console.WriteLine("<======================================================>");
             DesignPatten.Practice.Structural.Bridge.Example1Client.Test();
+            Console.WriteLine("<======================================================>");
+            DesignPatten.Practice.Structural.Decorator.Example1Client.Test();
             Console.ReadLine();
         }
     }
